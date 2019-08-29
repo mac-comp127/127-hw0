@@ -1,4 +1,4 @@
-package edu.macalester.comp124.hw0;
+package edu.macalester.comp127.hw0;
 
 /**
  * @author Shilad Sen

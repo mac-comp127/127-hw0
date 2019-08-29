@@ -1,4 +1,4 @@
-Comp 124 - Homework #0
+Comp 127 - Homework #0
 ===
 
 # Overview
@@ -10,8 +10,8 @@ You will often encounter an unexpected challenge or two when learning a new tech
 
 ### Preparing Your Workspace
 
-1. If you haven't already done so, begin by following the instructions in part one of the Google Doc to [set up your IntelliJ project on your laptop](https://docs.google.com/a/macalester.edu/document/d/1zuF7pQvylonBkxgcCaY38sPsqXgPlp6YkB3yA_vHVbQ/edit?usp=sharing).
-2. Follow the instructions in [cloning a repo](https://docs.google.com/a/macalester.edu/document/d/15F5NFm5hoibSV9E5IDO8icvp3ddiJ4cjQ-dXgCP6S9Y/edit?usp=sharing) to clone https://github.com/mac-comp124-f18/124-hw0. After you fork the repo it will be available at https://github.com/your-github-username/124-hw0.
+1. If you haven't already done so, begin by following the instructions in part one of the Google Doc to [set up your IntelliJ project on your laptop](https://docs.google.com/document/d/1W7z3BLt4_VM9cKYaQlcMhs6OPw3oBXxbl6F3s1yqYrk/edit?usp=sharing).
+2. Follow the instructions in [starting an activity / assignment](https://docs.google.com/document/d/1N1R8BBKMJBdFEC-iLMTUoAgUC-Ax6pT6P1aSQ8BduQc/edit?usp=sharing) for the URL TODO. After you start the activity it will be available at https://github.com/your-github-username/127-hw0.
 
 ### Run the tests (they should fail)
 
