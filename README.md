@@ -11,7 +11,7 @@ You will often encounter an unexpected challenge or two when learning a new tech
 ### Preparing Your Workspace
 
 1. If you haven't already done so, begin by following the instructions in part one of the Google Doc to [set up your IntelliJ project on your laptop](https://docs.google.com/document/d/1W7z3BLt4_VM9cKYaQlcMhs6OPw3oBXxbl6F3s1yqYrk/edit?usp=sharing).
-2. Follow the instructions in [starting an activity / assignment](https://docs.google.com/document/d/1N1R8BBKMJBdFEC-iLMTUoAgUC-Ax6pT6P1aSQ8BduQc/edit?usp=sharing) for the URL TODO. After you start the activity it will be available at https://github.com/your-github-username/127-hw0.
+2. Follow the instructions in [starting an activity / assignment](https://docs.google.com/document/d/1N1R8BBKMJBdFEC-iLMTUoAgUC-Ax6pT6P1aSQ8BduQc/edit?usp=sharing) for the assignment URL https://classroom.github.com/a/9zWnuYBr. After you start the activity it will be available at https://github.com/mac-comp127-f19/127-hw0-shilad-user_github_username.
 
 ### Run the tests (they should fail)
 
