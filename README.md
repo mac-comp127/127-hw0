@@ -17,8 +17,9 @@ You will often encounter an unexpected challenge or two when learning a new tech
 ### Run the tests (they should fail)
 
 1. Open the project in VS Code.
-1. Press command-shift-P (macOS) or ctrl-shift-P (Windows) and search for the command called **Java: Run All Tests**. Run it.
-1. JUnit will run the tests. You should see a test results window that shows two failed tests.
+1. Under the left Explorer Pane in VS Code, find the `tests` folder. Once inside access the AreaTest.java file and click on it.
+1. Notice that VS Code shows several little green triangles throughout this file:  That is VS Code’s “Run” icon. You can choose to run just one individual test — but you want to run all of them! Click the double triangle that appears to the left of the first line of the whole class.
+1. JUnit will run the tests. You should see a test results tree on the left pane that shows two failed tests.
 1. Click on a test to see its error message.
 
 ### Fix the Area class
