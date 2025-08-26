@@ -1,13 +1,17 @@
-Comp 127 - Homework #0
+Comp 127 - Homework 0
 ===
 
 # Overview
 
-The goal of this homework is to familiarize you with the development environment you will be using in this class, including VS Code, JUnit, Git and GitHub.
+The goals of this homework are to:
+
+- familiarize you with the development tools you will be using in this class, including VS Code, JUnit, Git and GitHub,
+- give you a practice with the process for completing and submitting a homework assignment, and
+- give you a send of how assignment grading and feedback works.
 
 You will correct a simple class that incorrectly calculates the area of two shapes: a square and a circle.
-Although the programming in this project is not challenging, the setup of your development tools may be.
-You will often encounter an unexpected challenge or two when learning a new technology!
+Although the programming in this project is not challenging, the dev tools and submission process may be.
+You will often encounter an unexpected challenge or two when learning a new technology! **Please ask for help** right away if anything seems confusing or broken. Now is the time to discover and clear up those problems, so that you have smooth sailing when the larger assignments start.
 
 ### Set up the assignment
 
